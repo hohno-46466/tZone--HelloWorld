@@ -1,3 +1,3 @@
-# tZone--HelloWorld - a test repository on the tZone (test zone)
+# GitHub/tZone--HelloWorld - a test repository on the tZone (test zone)
 
 a test repository on the tZone (test zone)
