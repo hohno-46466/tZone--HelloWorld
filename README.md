@@ -2,13 +2,13 @@
 
 a test repository on the tZone (test zone)
 
-    ./tZone--HelloWorld
+    ./tZone--HelloWorld/
      ├──  README.md
      ├──  README.md.old
-     └──  test.txt
+     ├──  test.txt
+     └──  update.sh
      
-     0 directories, 3 files (Sun Aug 28 21:29:44 JST 2022)
-
+     0 directories, 4 files (Tue Aug 30 13:10:14 JST 2022)
 
 Note: URL = https://github.com/hohno-46466/tZone--HelloWorld
 
